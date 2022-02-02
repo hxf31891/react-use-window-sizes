@@ -1,5 +1,5 @@
 {
-  "name": "react-use-window-size",
+  "name": "react-use-window-sizes",
   "version": "1.0.0",
   "description": "A lightweight package to easily track window size in React.js",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hxf31891/react-use-window-size.git"
+    "url": "git+https://github.com/hxf31891/react-use-window-sizes.git"
   },
   "keywords": [
     "react",
@@ -30,9 +30,9 @@
     "react-dom": "^16.3.0 || ^17.0.0 || ^18.0.0"
   },
   "bugs": {
-    "url": "https://github.com/hxf31891/react-use-window-size/issues"
+    "url": "https://github.com/hxf31891/react-use-window-sizes/issues"
   },
-  "homepage": "https://github.com/hxf31891/react-use-window-size#readme",
+  "homepage": "https://github.com/hxf31891/react-use-window-sizes#readme",
   "publishConfig": {
     "@hxf31891:registry": "https://npm.pkg.github.com"
   }
