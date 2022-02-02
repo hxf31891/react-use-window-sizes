@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/hxf31891/react-use-window-size/issues"
   },
-  "homepage": "https://github.com/hxf31891/react-use-window-size#readme"
+  "homepage": "https://github.com/hxf31891/react-use-window-size#readme",
+  "publishConfig": {
+    "@hxf31891:registry": "https://npm.pkg.github.com"
+  }
 }
