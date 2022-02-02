@@ -6,15 +6,14 @@ const useWindowSizes = () => {
   useLayoutEffect(() => {
     window.addEventListener("resize", updateWindowSize);
     updateWindowSize();
-
     return () => window.removeEventListener("resize", updateWindowSize);
-  });
+  }, []);
 
   const updateWindowSize = () => {
     setWindowSize({ width: window.innerWidth, height: window.innerHeight });
   };
 
-  return windowHeight;
+  return windowSize;
 };
 
 export { useWindowSizes };
