@@ -1,5 +1,6 @@
 # useWindowSize - a custom React hook
 A lightweight package to easily track window width & height in React.js
+
 Comes in handy for responsize design and animations
 
 ## Install
