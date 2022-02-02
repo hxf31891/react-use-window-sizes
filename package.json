@@ -1,0 +1,28 @@
+{
+  "name": "react-use-window-size",
+  "version": "1.0.0",
+  "description": "A lightweight package to easily track window size in React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hxf31891/react-use-window-size.git"
+  },
+  "keywords": [
+    "react",
+    "window-size",
+    "window-height",
+    "window-width",
+    "width",
+    "height",
+    "react-hooks"
+  ],
+  "author": "hxf31891",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hxf31891/react-use-window-size/issues"
+  },
+  "homepage": "https://github.com/hxf31891/react-use-window-size#readme"
+}
